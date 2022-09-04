@@ -6,13 +6,13 @@ A new Flutter project.
 
 ## Importent Note : :tada:
 # ChangeNotifier in Flutter : :tada:
-1. First Make Data Class That Change <br>
+:tada: 1. First Make Data Class That Change <br>
 class strong>ClassName</strong> with ChangeNotifier {<br>
   ValueNotifier<bool> <strong>VariableName</strong> = ValueNotifier(<strong>Value</strong>);<br>
 }<br>
 // <strong>Object Of This Class</strong>
 ValueNavbar valueNavbar = ValueNavbar();
-2. In Parent Class Use Widget:
+:tada: 2. In Parent Class Use Widget: <br>
 ValueListenableBuilder(<br>
 // define which value is change <strong>valueListenable: valueNavbar.enable,</strong>)<br>
 Container(color: Colors.transparent),<br>
