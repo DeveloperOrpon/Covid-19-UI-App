@@ -2,7 +2,7 @@
 A new Flutter project.
 
 ## Project Look In Real Device: :tada:
-<img src='https://github.com/DeveloperOrpon/Covid-19-UI-App/blob/main/covid19.gif?raw=true' width="300px" height="300px" alt='Video Prohressbar'/>
+<img src='https://github.com/DeveloperOrpon/Covid-19-UI-App/blob/main/covid19.gif?raw=true' width="300px" alt='Video Prohressbar'/>
 
 ## Importent Note : :tada:
 # ChangeNotifier in Flutter : :tada:
